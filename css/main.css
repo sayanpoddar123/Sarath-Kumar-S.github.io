@@ -4,21 +4,10 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    <style>
-.animatedBox {
-  width: 200px;
-  text-align: center;
-  font: 24px sans-serif;
-  border: 1px solid yellowgreen;
-  animation: myAnimation 1s ease 1s 3 alternate forwards;
-}
-
-@keyframes myAnimation {
-  100% {
-    border-bottom: 10px solid orange;
-  }	
-}
-</style>
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
 }
 nav ul li, footer ul li {
     display: inline;
