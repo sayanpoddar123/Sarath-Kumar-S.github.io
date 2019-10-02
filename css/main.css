@@ -1,6 +1,6 @@
 body {
-    color: #1B1E1D;
-    background-color: #3A22D5;
+    color: #1DDCF2;
+    background-color: #12FD87;
     margin: 60px auto;
     width: 70%;
 }
@@ -17,6 +17,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #3A22D5;
+    background-color: #FD8F12;
 }
 a:hover {
     text-decoration: underline;
@@ -28,18 +29,21 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #5E5887;
+    color: #F90C0C;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    color: #D915F7;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    color: #FD10BE;
 }
 
 ul.posts li {
     list-style: none;
+    color: #FE3C56;
 }
