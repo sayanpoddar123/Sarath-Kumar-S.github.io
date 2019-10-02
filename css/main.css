@@ -1,5 +1,5 @@
 body {
-    color: #1DDCF2;
+    
     background-color: #12FD87;
     margin: 100px auto;
     width: 80%;
@@ -16,8 +16,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #FE4D01;
- 
+  
 }
 a:hover {
     text-decoration: underline;
@@ -29,21 +28,20 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #1C1B1D;
+   
 }
 footer {
     border-top: 1px solid #;
     font-size: .8em;
-    color: #5B3DD2;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-    color: #FEB201;
+   
 }
 
 ul.posts li {
     list-style: none;
-    color: #DDAFEA;
+   
 }
