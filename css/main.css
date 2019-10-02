@@ -6,7 +6,7 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 5px;
+    padding: 20px;
     list-style: none;
     font-weight: bold;
 }
@@ -16,7 +16,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #3A22D5;
+    color: #FE4D01;
  
 }
 a:hover {
@@ -40,7 +40,7 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-    color: #910EB9;
+    color: #FEB201;
 }
 
 ul.posts li {
